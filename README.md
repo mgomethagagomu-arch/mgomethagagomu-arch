@@ -1,5 +1,1 @@
-hi there!.. I'm gomethaga
-
-🍂.First year student..
- 😋interested in designing and wed developement.
-💟 current leaning html css...💫
+gomethaga| CSE undergraduate passionate about software development and problem solving
